@@ -1,8 +1,6 @@
 This is React project, communicating with YouTube API to provide Youtube search results.
 
 
-## To start a project use command npm start
-
 ## Folder Structure
 
 ```
@@ -16,6 +14,7 @@ react-youtube-search/
   style/
     css styles
 ```
+To start project use command:
 
 ### `npm start`
 
